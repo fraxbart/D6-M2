@@ -1,0 +1,61 @@
+.areatotale{
+    width: auto;
+    height: auto;
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.totale{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.prodotto{
+    border: solid 1px black;
+    width: 290px;
+    height: 550px;
+    margin: 50px; 
+}
+.titleprod{
+    height:50px;
+    width: auto;
+    
+    text-align: center;
+}
+.contimg{
+        display: flex;
+        justify-content: center;
+    }
+.imm1 img{
+    background-color: aqua;
+    width: 150px;
+    height: 190px;
+   
+}
+
+
+
+.prezzo{
+    
+    display: flex;
+        justify-content: center;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.link:hover:visited{
+   color: blue;
+}
+
